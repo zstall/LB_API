@@ -1,0 +1,20 @@
+{
+  "name": "note_api",
+  "version": "1.0.0",
+  "description": "Levels Beyond Backend Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notes",
+    "api"
+  ],
+  "author": "zachary stall",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
