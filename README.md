@@ -1,6 +1,7 @@
 # LB_API
 Simple RESTFUL API for a note keeping app
-To run API, run: node server.js
+
+# To run API, run: node server.js
 
 The server will be listening to localhost:3000
 
